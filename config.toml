@@ -1,4 +1,3 @@
-baseurl = "http://example.com/"
 theme = "hugo-geo"
 themesdir = "themes"
 relativeURLs = false
