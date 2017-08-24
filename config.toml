@@ -19,28 +19,28 @@ paginate = 5
 
 	email = "alexurquhart@gmail.com"
 
-	profilepic = "img/profile.png"
+	profilepic = "img/profilePhoto.jpg"
 	
-	title = "MY NAME"
-	subtitle = "MY HUGO BLOG"
+	title = "Miguel Angel Cortes"
+	subtitle = "Miguel Cortes"
 
 	# Social buttons for sidebar
 	# Each of these are optional
 	[[params.socialbuttons]]
 	faicon = "github"
-	url = "https://github.com/alexurquhart"
+	url = "https://github.com/Macn1234"
 	[[params.socialbuttons]]
-	faicon = "twitter"
-	url = "https://twitter.com/alexanderurq"
+	faicon = "facebook"
+	url = "https://www.facebook.com/miguel.cortes.3762"
 	[[params.socialbuttons]]
 	faicon = "linkedin"
 	url = "https://linkedin.com"
 	[[params.socialbuttons]]
 	faicon = "google-plus"
-	url = "https://plus.google.com/+YourID"
+	url = "https://plus.google.com/u/0/117144648886294691970"
 
 	[[params.navlinks]]
-	name = "About"
+	name = "Sobre mi"
 	url = "about"
 	
 	[[params.navlinks]]
@@ -48,5 +48,5 @@ paginate = 5
 	url = ""
 	
 	[[params.navlinks]]
-	name = "Tutorials"
+	name = "Proyectos"
 	url = "tutorial/"
