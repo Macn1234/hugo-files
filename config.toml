@@ -3,7 +3,7 @@ theme = "hugo-geo"
 themesdir = "themes"
 relativeURLs = false
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Miguel Cortes"
 disqusShortname = "shortcode-here"
 paginate = 5
 
@@ -18,12 +18,12 @@ paginate = 5
 
 	analytics = "code-here"
 
-	email = "alexurquhart@gmail.com"
+	email = "macortesn@unal.edu.co"
 
 	profilepic = "img/profilePhoto.jpg"
 
 	title = "Miguel Angel Cortes"
-	subtitle = "Miguel Cortes"
+	subtitle = ""
 
 	# Social buttons for sidebar
 	# Each of these are optional
