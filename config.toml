@@ -50,4 +50,4 @@ paginate = 5
 
 	[[params.navlinks]]
 	name = "Proyectos"
-	url = "proyectos/"
+	url = "proyectos"
