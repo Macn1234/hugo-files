@@ -35,7 +35,7 @@ paginate = 5
 	url = "https://www.facebook.com/miguel.cortes.3762"
 	[[params.socialbuttons]]
 	faicon = "linkedin"
-	url = "https://linkedin.com"
+	url = "https://www.linkedin.com/in/miguel-cortes-1b229610a/"
 	[[params.socialbuttons]]
 	faicon = "google-plus"
 	url = "https://plus.google.com/u/0/117144648886294691970"
