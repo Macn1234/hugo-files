@@ -2,11 +2,10 @@
 css = []
 date = "2017-08-24T21:28:19-05:00"
 description = ""
-draft = true
+draft = false
 highlight = true
 scripts = []
 tags = []
-title = "DectectorDePlagio"
+title = "Dectector De Plagio"
 
 +++
-
